@@ -5,6 +5,9 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
+MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/instext?retryWrites=true&w=majority
+JWT_SECRET=your_jwt_secret_here
+PORT=5000
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
